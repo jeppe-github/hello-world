@@ -1,2 +1,2 @@
 # hello-world
-just anothre hello world application test
+just another hello world application test
